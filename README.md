@@ -1,7 +1,8 @@
 # Practical-Assignment-5.1
 
 Assignment 5.1_Professional certificate in AI/ML
-Link - https://github.com/sraashi/Practical-Assignment-5.1/blob/main/Practical%20assignment%205.1.ipynb
+
+Link - (https://github.com/sraashi/Practical-Assignment-5.1/blob/main/Practical%20assignment%205.1-Final.ipynb)
 
 Part 1:
 #Drivers who accepted Bar coupons are likely in the following description:
